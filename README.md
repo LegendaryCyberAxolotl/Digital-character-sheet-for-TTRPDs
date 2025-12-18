@@ -1,1 +1,1 @@
-This repository is created to publish my assignments for university. You won't probably find anything useful here unless you're my teacher or my groupmate.
+I'm a student at an IT university. This repository was created to publish my university assignments. You probably won't find anything useful here unless you're my teacher or my groupmate. But still, if you're a stranger who randomly came across my profile and this repository, I'd like you to leave some advice. I'm just starting to learn Java and will probably use this for my personal projects.
